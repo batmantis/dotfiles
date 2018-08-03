@@ -1,0 +1,6 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "window.title": "${activeEditorLong}",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+}
